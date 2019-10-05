@@ -23,7 +23,7 @@ Clover Bootloader settings and fixs for ThinkPad X1 Carbon Gen5(2017)
 
 ##State
 
-> ## fully working
+### fully working
 >
 > CPU HWP
 > Nvram
@@ -41,7 +41,7 @@ Clover Bootloader settings and fixs for ThinkPad X1 Carbon Gen5(2017)
 > SSD with sm961 highperformance
 > Usb3.0
 
-> ## partly working or issues
+### partly working or issues
 >
 > thunderbolt 3 no test
 > type c can be detected only plug in on first boot
@@ -49,11 +49,10 @@ Clover Bootloader settings and fixs for ThinkPad X1 Carbon Gen5(2017)
 > trackpad no multi gesture
 > battery percentage 4% more than in windows which is actual value
 
-> ## none working:
+### none working:
 >
 > fingerprint
 > cardreader
->
 > iMessage and Facetime, I tried several times but still not work.
 >
-> Part of it comes from the internet. If you have any infringement, please contact me.
+##Part of it comes from the internet. If you have any infringement, please contact me.
