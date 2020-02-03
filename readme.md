@@ -2,13 +2,13 @@
 
 (Customized version)
 
-##clover-x1c5
+## clover-x1c5
 
 Clover Bootloader settings and fixs for ThinkPad X1 Carbon Gen5(2017)
 
-##work on 10.14.6
+## work on 10.14.6
 
-##My hardware configeration 
+## My hardware configeration 
 
 > Model: ThinkPad X1 Carbon 2017 20K3
 > CPU: Core i5 6200U
@@ -21,7 +21,7 @@ Clover Bootloader settings and fixs for ThinkPad X1 Carbon Gen5(2017)
 > SSD: intel 600p (replaced with sm961)
 > TouchPad: synaptics on SMBus
 
-##State
+## State
 
 ### fully working
 >
@@ -55,4 +55,4 @@ Clover Bootloader settings and fixs for ThinkPad X1 Carbon Gen5(2017)
 > cardreader
 > iMessage and Facetime, I tried several times but still not work.
 >
-##Part of it comes from the internet. If you have any infringement, please contact me.
+## Part of it comes from the internet. If you have any infringement, please contact me.
