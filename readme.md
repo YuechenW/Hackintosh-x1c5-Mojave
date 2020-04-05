@@ -11,14 +11,23 @@ Clover Bootloader settings and fixs for ThinkPad X1 Carbon Gen5(2017)
 ## My hardware configeration 
 
 > Model: ThinkPad X1 Carbon 2017 20K3
+>
 > CPU: Core i5 6200U
+>
 > RAM: 8G LPDDR3 1867
+>
 > Graphics: HD520
+>
 > LCD: 1080p
+>
 > Lan: Intel I219V4
+>
 > Audio: CX8200
+>
 > Wifi : replaced with BCM94360CS2 , no whitelist
+>
 > SSD: intel 600p (replaced with sm961)
+>
 > TouchPad: synaptics on SMBus
 
 ## State
