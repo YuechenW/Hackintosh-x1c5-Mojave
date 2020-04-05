@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>Author</key>
-	<string>ClaudesTech</string>
+	<string>Elijah</string>
 	<key>Description</key>
-	<string>Asus</string>
+	<string>Clover Bootloader Theme.</string>
 	<key>Theme</key>
 	<dict>
 		<key>Anime</key>
@@ -46,7 +46,7 @@
 			<key>Revision</key>
 			<false/>
 			<key>Tools</key>
-			<false/>
+			<true/>
 		</dict>
 		<key>Font</key>
 		<dict>
@@ -61,8 +61,12 @@
 		</dict>
 		<key>Layout</key>
 		<dict>
+			<key>BannerOffset</key>
+			<integer>70</integer>
+			<key>ButtonOffset</key>
+			<integer>-25</integer>
 			<key>TextOffset</key>
-			<integer>-20</integer>
+			<integer>240</integer>
 		</dict>
 		<key>Selection</key>
 		<dict>
@@ -75,6 +79,6 @@
 		</dict>
 	</dict>
 	<key>Year</key>
-	<string>2017</string>
+	<string>2019</string>
 </dict>
 </plist>
