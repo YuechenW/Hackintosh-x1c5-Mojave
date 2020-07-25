@@ -337,8 +337,6 @@
 	</dict>
 	<key>Boot</key>
 	<dict>
-		<key>Arguments</key>
-		<string>brcmfx-country=#a darkwake=0</string>
 		<key>CustomLogo</key>
 		<false/>
 		<key>Debug</key>

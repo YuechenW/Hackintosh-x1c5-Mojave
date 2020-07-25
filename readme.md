@@ -85,4 +85,6 @@ Clover Bootloader settings and fixs for ThinkPad X1 Carbon Gen5(2017)
 >
 > iMessage and Facetime, I tried several times but still not work.
 
+2020.7.25	add drivers to work intel ax200
+
 ## Part of it comes from the internet. If you have any infringement, please contact me.
