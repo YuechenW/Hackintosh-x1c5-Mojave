@@ -87,4 +87,4 @@ Clover Bootloader settings and fixs for ThinkPad X1 Carbon Gen5(2017)
 
 2020.7.25	add drivers to work intel ax200
 
-## Part of it comes from the internet. If you have any infringement, please contact me.
+## Part of it comes from the internet. If you have any infringement, please contact me.Thanks to f23258 from 51NB.com for this.
