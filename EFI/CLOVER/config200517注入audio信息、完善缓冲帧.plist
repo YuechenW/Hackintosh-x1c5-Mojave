@@ -41,9 +41,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>SERBUw==</data>
+					<data>
+					SERBUw==
+					</data>
 					<key>Replace</key>
-					<data>SERFRg==</data>
+					<data>
+					SERFRg==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -51,9 +55,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>DQoD</data>
+					<data>
+					DQoD
+					</data>
 					<key>Replace</key>
-					<data>DQoA</data>
+					<data>
+					DQoA
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -61,9 +69,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>DQoE</data>
+					<data>
+					DQoE
+					</data>
 					<key>Replace</key>
-					<data>DQoA</data>
+					<data>
+					DQoA
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -71,9 +83,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>bQoD</data>
+					<data>
+					bQoD
+					</data>
 					<key>Replace</key>
-					<data>bQoA</data>
+					<data>
+					bQoA
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -81,9 +97,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>bQoE</data>
+					<data>
+					bQoE
+					</data>
 					<key>Replace</key>
-					<data>bQoA</data>
+					<data>
+					bQoA
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -91,9 +111,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>R1BSVwI=</data>
+					<data>
+					R1BSVwI=
+					</data>
 					<key>Replace</key>
-					<data>WFBSVwI=</data>
+					<data>
+					WFBSVwI=
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -101,9 +125,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>S0JEXw==</data>
+					<data>
+					S0JEXw==
+					</data>
 					<key>Replace</key>
-					<data>UFMySw==</data>
+					<data>
+					UFMySw==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -111,9 +139,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>RUhDMQ==</data>
+					<data>
+					RUhDMQ==
+					</data>
 					<key>Replace</key>
-					<data>RUgwMQ==</data>
+					<data>
+					RUgwMQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -121,9 +153,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>RUhDMg==</data>
+					<data>
+					RUhDMg==
+					</data>
 					<key>Replace</key>
-					<data>RUgwMg==</data>
+					<data>
+					RUgwMg==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -131,9 +167,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>X0RTTQ==</data>
+					<data>
+					X0RTTQ==
+					</data>
 					<key>Replace</key>
-					<data>WERTTQ==</data>
+					<data>
+					WERTTQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -141,9 +181,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>X09TSQ==</data>
+					<data>
+					X09TSQ==
+					</data>
 					<key>Replace</key>
-					<data>WE9TSQ==</data>
+					<data>
+					WE9TSQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -151,9 +195,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>R0ZYMA==</data>
+					<data>
+					R0ZYMA==
+					</data>
 					<key>Replace</key>
-					<data>SUdQVQ==</data>
+					<data>
+					SUdQVQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -161,9 +209,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>X1ExMw==</data>
+					<data>
+					X1ExMw==
+					</data>
 					<key>Replace</key>
-					<data>WFExMw==</data>
+					<data>
+					WFExMw==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -171,9 +223,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>X1ExNA==</data>
+					<data>
+					X1ExNA==
+					</data>
 					<key>Replace</key>
-					<data>WFExNA==</data>
+					<data>
+					WFExNA==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -181,9 +237,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>X1ExNQ==</data>
+					<data>
+					X1ExNQ==
+					</data>
 					<key>Replace</key>
-					<data>WFExNQ==</data>
+					<data>
+					WFExNQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -191,9 +251,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>X1BUUwE=</data>
+					<data>
+					X1BUUwE=
+					</data>
 					<key>Replace</key>
-					<data>WlBUUwE=</data>
+					<data>
+					WlBUUwE=
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -201,9 +265,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>X1dBSwE=</data>
+					<data>
+					X1dBSwE=
+					</data>
 					<key>Replace</key>
-					<data>WldBSwE=</data>
+					<data>
+					WldBSwE=
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -211,9 +279,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>X1dBSwk=</data>
+					<data>
+					X1dBSwk=
+					</data>
 					<key>Replace</key>
-					<data>WldBSwk=</data>
+					<data>
+					WldBSwk=
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -221,9 +293,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>WFNFTAg=</data>
+					<data>
+					WFNFTAg=
+					</data>
 					<key>Replace</key>
-					<data>WFNFWAg=</data>
+					<data>
+					WFNFWAg=
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -231,9 +307,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>RVNFTAg=</data>
+					<data>
+					RVNFTAg=
+					</data>
 					<key>Replace</key>
-					<data>RVNFWAg=</data>
+					<data>
+					RVNFWAg=
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -241,9 +321,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>WFdBSwg=</data>
+					<data>
+					WFdBSwg=
+					</data>
 					<key>Replace</key>
-					<data>WFdBWAg=</data>
+					<data>
+					WFdBWAg=
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -251,9 +335,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>R0JJRgM=</data>
+					<data>
+					R0JJRgM=
+					</data>
 					<key>Replace</key>
-					<data>WEJJRgM=</data>
+					<data>
+					WEJJRgM=
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -261,9 +349,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>R0JTVAQ=</data>
+					<data>
+					R0JTVAQ=
+					</data>
 					<key>Replace</key>
-					<data>WEJTVAQ=</data>
+					<data>
+					WEJTVAQ=
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -271,9 +363,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>R0JJWAM=</data>
+					<data>
+					R0JJWAM=
+					</data>
 					<key>Replace</key>
-					<data>WEJJWAM=</data>
+					<data>
+					WEJJWAM=
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -281,9 +377,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>U0JNTkA=</data>
+					<data>
+					U0JNTkA=
+					</data>
 					<key>Replace</key>
-					<data>Qk1OWEA=</data>
+					<data>
+					Qk1OWEA=
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -291,9 +391,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>U0JETkA=</data>
+					<data>
+					U0JETkA=
+					</data>
 					<key>Replace</key>
-					<data>QkROWEA=</data>
+					<data>
+					QkROWEA=
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -301,9 +405,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>QVpBTA==</data>
+					<data>
+					QVpBTA==
+					</data>
 					<key>Replace</key>
-					<data>SERFRg==</data>
+					<data>
+					SERFRg==
+					</data>
 				</dict>
 			</array>
 			<key>ReuseFFFF</key>
@@ -409,7 +517,9 @@
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 				<key>layout-id</key>
-				<data>FQAAAA==</data>
+				<data>
+				FQAAAA==
+				</data>
 				<key>model</key>
 				<string>Sunrise Point-LP HD Audio</string>
 			</dict>
@@ -449,7 +559,9 @@
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 				<key>layout-id</key>
-				<data>FQAAAA==</data>
+				<data>
+				FQAAAA==
+				</data>
 				<key>model</key>
 				<string>Sunrise Point-LP HD Audio</string>
 			</dict>
@@ -476,31 +588,53 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AAAWGQ==</data>
+				<data>
+				AAAWGQ==
+				</data>
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,2,0</string>
 				<key>device-id</key>
-				<data>FhkAAA==</data>
+				<data>
+				FhkAAA==
+				</data>
 				<key>device_type</key>
 				<string>VGA compatible controller</string>
 				<key>disable-external-gpu</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>enable-hdmi20</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-con1-alldata</key>
-				<data>AQUJAAAIAACHAQAA/wQKAAAIAACHAQAA</data>
+				<data>
+				AQUJAAAIAACHAQAA/wQKAAAIAACHAQAA
+				</data>
 				<key>framebuffer-con1-enable</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-fbmem</key>
-				<data>AACQAA==</data>
+				<data>
+				AACQAA==
+				</data>
 				<key>framebuffer-patch-enable</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-portcount</key>
-				<data>AgAAAA==</data>
+				<data>
+				AgAAAA==
+				</data>
 				<key>framebuffer-stolenmem</key>
-				<data>AAAwAQ==</data>
+				<data>
+				AAAwAQ==
+				</data>
 				<key>framebuffer-unifiedmem</key>
-				<data>AAAAgA==</data>
+				<data>
+				AAAAgA==
+				</data>
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 				<key>model</key>
@@ -592,13 +726,17 @@
 				<key>Disabled</key>
 				<true/>
 				<key>Find</key>
-				<data>AEFQUExFIFNTRAA=</data>
+				<data>
+				AEFQUExFIFNTRAA=
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>com.apple.iokit.IOAHCIBlockStorage</string>
 				<key>Replace</key>
-				<data>AAAAAAAAAAAAAAA=</data>
+				<data>
+				AAAAAAAAAAAAAAA=
+				</data>
 			</dict>
 		</array>
 	</dict>
@@ -608,10 +746,8 @@
 		<string>0x28</string>
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
-		<key>MLB</key>
-		<string>C17752270CDHMHKA8</string>
 		<key>ROM</key>
-		<data>j86XPI6p</data>
+		<string>UseMacAddr0</string>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
@@ -626,7 +762,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C17752270CDHMHKA8</string>
+		<string>C02618301CDHMHK1H</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -656,16 +792,16 @@
 		<key>ProductName</key>
 		<string>MacBookPro13,1</string>
 		<key>SerialNumber</key>
-		<string>C17VWUY7GVC1</string>
+		<string>C02RNSY5GVC1</string>
 		<key>SmUUID</key>
-		<string>CAFD486B-0DD0-461F-8932-8FCE973C8EA9</string>
+		<string>03BD23E0-BA1A-435C-A170-F43008E4702E</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
 		<key>CustomUUID</key>
-		<string>CAFD486B-0DD0-461F-8932-8FCE973C8EA9</string>
+		<string>8ABC654C-3055-11B2-A85C-FF2AE8EDCBCE</string>
 		<key>InjectKexts</key>
 		<string>Detect</string>
 		<key>InjectSystemID</key>
